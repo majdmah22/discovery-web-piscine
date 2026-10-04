@@ -1,0 +1,20 @@
+Git Workflow
+
+1. Edit
+   Edit or create the required project files.
+
+2. Check the repository status
+   git status
+
+3. Add the changes
+   git add ex03/
+
+4. Commit the changes
+   git commit -m "Add Exercise 03 documentation"
+
+5. Push the commit to GitHub
+   git push
+
+Complete cycle:
+
+Edit → Add → Commit → Push
